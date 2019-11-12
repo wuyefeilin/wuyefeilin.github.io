@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+﻿#!/usr/bin/env sh
 
 # 确保脚本抛出遇到的错误
 set -e
@@ -13,10 +13,10 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git config user.name "Chenyating"
-git config user.email "924471303@qq.com"
+git config user.name "wuyefeilin"
+git config user.email "642982169@qq.com"
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f git@github.com:Chenyating/Chenyating.github.io.git master
+git push -f git@github.com:wuyefeilin/wuyefeilin.github.io.git master
 
 cd -
