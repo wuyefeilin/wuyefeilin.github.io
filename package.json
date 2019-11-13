@@ -11,6 +11,6 @@
     "deploy": "bash deploy.sh"
   },
   "dependencies": {
-    "vuepress-theme-ting": "^1.1.8"
+    "vuepress-theme-ting": "^1.2.0"
   }
 }
