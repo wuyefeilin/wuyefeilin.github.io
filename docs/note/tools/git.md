@@ -6,7 +6,13 @@
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 ```
-git 
+`git init`将一个目录初始化为一个git repo
+
+`git add <file>` 添加文件
+
+`git commit -m <message>`将文件提交到仓库
+
+
 ## 关于版本退回的知识：
 ```
 git status  查看各个文件的状态是否更新
