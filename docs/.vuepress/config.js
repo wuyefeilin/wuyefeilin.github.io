@@ -17,6 +17,7 @@
         ],
         lastUpdated: 'Last Updated',
         smoothScroll: true,
+        live2dModel:'/chitose/chitose.model.json',//live2d模型路径
         pageNum:10,//目录每页显示条数
         //gitalk留言设置
         gitalk:{
